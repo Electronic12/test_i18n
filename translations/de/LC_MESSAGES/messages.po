@@ -20,27 +20,27 @@ msgstr ""
 
 #: app.py:18
 msgid "anthony"
-msgstr "anthonyfhyfgyjdthujgfyj"
+msgstr "Antongeldi"
 
 #: templates/index.html:8
 msgid "Computer"
-msgstr "Kompyuter"
+msgstr "Computer"
 
 #: templates/index.html:10
 msgid "Online"
-msgstr "Ulgamda"
+msgstr "Online"
 
 #: templates/index.html:11
 msgid "Offline"
-msgstr "Ulgamda dal"
+msgstr "Offline"
 
 #: templates/index.html:12
 msgid "Internet"
-msgstr "SET"
+msgstr "Internet"
 
 #: templates/index.html:13
 msgid "Personal"
-msgstr "Hususy"
+msgstr "persönlich"
 
 #: templates/index.html:14
 msgid "Email"
@@ -48,13 +48,13 @@ msgstr "gmail"
 
 #: templates/index.html:15
 msgid "Dictionary"
-msgstr "Sozluk"
+msgstr "Wörterbuch"
 
 #: templates/index.html:16
 msgid "Hello"
-msgstr "Salam"
+msgstr "Hallo"
 
 #: templates/index.html:17
 msgid "Data"
-msgstr "Maglumat"
+msgstr "Daten"
 
